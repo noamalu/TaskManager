@@ -1,0 +1,16 @@
+C:\Users\malul\OneDrive\שולחן העבודה\לימודים\סמסטר ב\מבוא להנדסת תכנה\עבודות\milestone 3\Backend\bin\Debug\net6.0\log4net.config
+C:\Users\malul\OneDrive\שולחן העבודה\לימודים\סמסטר ב\מבוא להנדסת תכנה\עבודות\milestone 3\Backend\bin\Debug\net6.0\IntroSE.Kanban.Backend.deps.json
+C:\Users\malul\OneDrive\שולחן העבודה\לימודים\סמסטר ב\מבוא להנדסת תכנה\עבודות\milestone 3\Backend\bin\Debug\net6.0\IntroSE.Kanban.Backend.runtimeconfig.json
+C:\Users\malul\OneDrive\שולחן העבודה\לימודים\סמסטר ב\מבוא להנדסת תכנה\עבודות\milestone 3\Backend\bin\Debug\net6.0\IntroSE.Kanban.Backend.dll
+C:\Users\malul\OneDrive\שולחן העבודה\לימודים\סמסטר ב\מבוא להנדסת תכנה\עבודות\milestone 3\Backend\bin\Debug\net6.0\IntroSE.Kanban.Backend.pdb
+C:\Users\malul\OneDrive\שולחן העבודה\לימודים\סמסטר ב\מבוא להנדסת תכנה\עבודות\milestone 3\Backend\obj\Debug\net6.0\Backend.csproj.AssemblyReference.cache
+C:\Users\malul\OneDrive\שולחן העבודה\לימודים\סמסטר ב\מבוא להנדסת תכנה\עבודות\milestone 3\Backend\obj\Debug\net6.0\Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malul\OneDrive\שולחן העבודה\לימודים\סמסטר ב\מבוא להנדסת תכנה\עבודות\milestone 3\Backend\obj\Debug\net6.0\Backend.AssemblyInfoInputs.cache
+C:\Users\malul\OneDrive\שולחן העבודה\לימודים\סמסטר ב\מבוא להנדסת תכנה\עבודות\milestone 3\Backend\obj\Debug\net6.0\Backend.AssemblyInfo.cs
+C:\Users\malul\OneDrive\שולחן העבודה\לימודים\סמסטר ב\מבוא להנדסת תכנה\עבודות\milestone 3\Backend\obj\Debug\net6.0\Backend.csproj.CoreCompileInputs.cache
+C:\Users\malul\OneDrive\שולחן העבודה\לימודים\סמסטר ב\מבוא להנדסת תכנה\עבודות\milestone 3\Backend\obj\Debug\net6.0\IntroSE.Kanban.Backend.dll
+C:\Users\malul\OneDrive\שולחן העבודה\לימודים\סמסטר ב\מבוא להנדסת תכנה\עבודות\milestone 3\Backend\obj\Debug\net6.0\refint\IntroSE.Kanban.Backend.dll
+C:\Users\malul\OneDrive\שולחן העבודה\לימודים\סמסטר ב\מבוא להנדסת תכנה\עבודות\milestone 3\Backend\obj\Debug\net6.0\IntroSE.Kanban.Backend.pdb
+C:\Users\malul\OneDrive\שולחן העבודה\לימודים\סמסטר ב\מבוא להנדסת תכנה\עבודות\milestone 3\Backend\obj\Debug\net6.0\Backend.genruntimeconfig.cache
+C:\Users\malul\OneDrive\שולחן העבודה\לימודים\סמסטר ב\מבוא להנדסת תכנה\עבודות\milestone 3\Backend\obj\Debug\net6.0\ref\IntroSE.Kanban.Backend.dll
+C:\Users\malul\OneDrive\שולחן העבודה\לימודים\סמסטר ב\מבוא להנדסת תכנה\עבודות\milestone 3\Backend\bin\Debug\net6.0\kanban.db
